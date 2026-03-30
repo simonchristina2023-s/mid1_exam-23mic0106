@@ -1,0 +1,17 @@
+package simpleprogram_23mic0106;
+
+public class simpleprogram_23mic0106 {
+	static void showDetails() {
+		System.out.println("Student Name: Simon Christina Beryl");
+		System.out.println("Register Number: 23MIC0106");
+		System.out.println("Message: Jenkins Build Successful");
+		
+	}
+	
+	public static void main(String[] args) {
+		showDetails();
+	}
+	
+	
+
+}
